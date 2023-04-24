@@ -1,0 +1,4 @@
+*.log
+/dir/
+static1/dir
+db.pptx
